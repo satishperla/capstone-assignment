@@ -1,0 +1,102 @@
+/* .d-block {
+    height: 650px;
+} */
+.bannerButton {
+  width: 350px;
+  margin: 31px 0px !important;
+  height: 100px;
+  clip-path: polygon(10% 0, 100% 0%, 90% 100%, 0 100%);
+  color: white;
+}
+
+.singleCard {
+  width: 60rem;
+}
+@media (min-width: 300px) and (max-width: 768px) {
+  .singleCard {
+    width: auto;
+  }
+}
+
+.cardtxt {
+  color: #9b9a98;
+  margin-bottom: 20px !important;
+}
+
+.cardtxt i {
+  font-style: normal;
+  font-size: 12px;
+}
+
+.card-container {
+  margin-bottom: 15px;
+}
+
+.contact-container {
+  margin-top: 50px;
+  border: 1px solid #000000;
+  min-height: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.form-group {
+  width: 250px;
+}
+
+.form-group input,
+textarea {
+  min-width: 400px;
+}
+
+.pic {
+  width: 30rem;
+}
+
+.contact-form {
+  max-width: 500px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.contact-image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.label {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  display: block;
+}
+
+.input {
+  font-size: 16px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.submit-btn {
+  font-size: 16px;
+  font-weight: bold;
+  padding: 10px 20px;
+}
+
+.scroll-to-top {
+  position: fixed;
+  bottom: 100px;
+  right: 20px;
+  cursor: pointer;
+  opacity: 0.5;
+}
+.scroll-to-top:hover {
+  opacity: 1;
+}

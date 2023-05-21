@@ -1,0 +1,131 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "applications": [
+    {
+      "jobId": "10",
+      "name": "Satish",
+      "email": "satishperla98@gmail.com",
+      "phone": "1234567890",
+      "address": "Mandepudi,Amaravathi(Md)",
+      "experience": "React and Node",
+      "id": 1
+    },
+    {
+      "jobId": "10",
+      "name": "sa",
+      "email": "qw@gm.co",
+      "phone": "1111111111",
+      "address": "",
+      "experience": "rsgrwghtjnytxjmyx",
+      "id": 2
+    },
+    {
+      "jobId": "15",
+      "name": "sa",
+      "email": "qw@gm.co",
+      "phone": "1111111111",
+      "address": "",
+      "experience": "fdsrastfuyyiohyftdstdfhbk",
+      "id": 3
+    },
+    {
+      "jobId": "15",
+      "name": "sa",
+      "email": "qw@gm.co",
+      "phone": "1111111111",
+      "address": "",
+      "experience": "dgdfhmdgrsdugfhtd",
+      "id": 4
+    }
+  ],
+  "contactData": [
+    {
+      "address": "123 Park Avenue C, AK Marg, Delhi, India",
+      "phone": [
+        "(91) 987 654 3210",
+        "(91) 987 654 3211"
+      ],
+      "email": "contact@topjobs.com"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "name": "sa",
+      "email": "qw@gm.co",
+      "phone": "1111111111",
+      "message": "fagaeghhaa",
+      "id": 2
+    },
+    {
+      "name": "sa",
+      "email": "qw@gm.co",
+      "phone": "1111111111",
+      "message": "jrGjthlzjtohztuhoE",
+      "id": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "jobs": [
+    {
+      "id": "10",
+      "post": "Sales Manager",
+      "company": "SRG International",
+      "experience": "5-8 years",
+      "package": "not disclosed",
+      "location": "Faridabad"
+    },
+    {
+      "id": "11",
+      "post": "Accounts Officer - Banking",
+      "company": "KAYPEE FOOD PRODUCTS",
+      "experience": "4-9 Yrs",
+      "package": "2,75,000-4,00,000",
+      "location": "Gualior"
+    },
+    {
+      "id": "12",
+      "post": "SPA FICO Consultant",
+      "company": "Bhavana Balkrishna Goaker",
+      "experience": "10-15 Yrs",
+      "package": "10,00,000-12,00,000",
+      "location": "Mumbai"
+    },
+    {
+      "id": "13",
+      "post": "Assistant Manager - PLA",
+      "company": "Indigo Airline",
+      "experience": "1-6 Yrs",
+      "package": "Not disclosed",
+      "location": "Remote"
+    },
+    {
+      "id": "14",
+      "post": "Web Logic Portal",
+      "company": "ezProHub LLC",
+      "experience": "2-5 Yrs",
+      "package": "Not disclosed",
+      "location": "Coimbatore"
+    },
+    {
+      "id": "15",
+      "post": "Account Execute",
+      "company": "Hitech Information Fast Service",
+      "experience": "4-6 Yrs",
+      "package": "3,00,000-5,00,000 ",
+      "location": "Pune"
+    }
+  ]
+}
